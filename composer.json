@@ -1,0 +1,19 @@
+{
+    "name": "softarius/oxml",
+    "description": "Softarius office XML library",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Softarius",
+            "email": "sergey@yushinin.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {} ,
+    "autoload": {
+	"psr-4": {
+            "Softarius\\Oxml\\": "src/Softarius"
+        }
+    }
+}
